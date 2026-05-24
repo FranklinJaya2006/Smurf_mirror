@@ -131,7 +131,7 @@ import google.generativeai as genai
 This project was documented and presented as part of a scientific conference paper discussing AIoT and multimodal smart mirror systems for sustainable outfit recommendation support.
 
 <p align="center">
-  <img src="Conference.jpeg" width="250">
+  <img src="Conference.jpeg" width="550">
 </p>
 
 ### Research Title
