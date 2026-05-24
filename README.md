@@ -162,15 +162,11 @@ The system utilizes:
 
 ### Publication Link
 
-```txt
 [Link Journal]((https://www.researchgate.net/publication/400532194_Design_and_Implementation_of_a_Raspberry_Pi-Based_Smart_Mirror_with_Multimodal_AI_and_IoT_for_Sustainable_Outfit_Decision_Support))
-```
 
 Or DOI:
 
-```txt
 [DOI Journal]((https://www.researchgate.net/publication/400532194_Design_and_Implementation_of_a_Raspberry_Pi Based_Smart_Mirror_with_Multimodal_AI_and_IoT_for_Sustainable_Outfit_Decision_Support))
-```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
