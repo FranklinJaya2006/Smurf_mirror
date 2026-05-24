@@ -51,8 +51,8 @@
 ## About The Project
 
 <p align="center">
-  <img src="Smartmirror.jpeg" width="250">
-  <img src="Smartmirror2.jpeg" width="250">
+  <img src="Smartmirror.jpeg" width="350">
+  <img src="Smartmirror2.jpeg" width="350">
 </p>
 
 This project is a Raspberry Pi–based Smart Mirror integrated with Artificial Intelligence (AI), Internet of Things (IoT), and multimodal machine learning technology to provide intelligent outfit assessment and recommendation features.
@@ -293,7 +293,7 @@ This project was developed by:
 
 ## Contact
 
-Franklin Jaya - [@franklinjaya_](https://www.instagram.com/franklinjaya_/) - franklinjaya827@gmail.com
+- Franklin Jaya - [@franklinjaya_](https://www.instagram.com/franklinjaya_/) - franklinjaya827@gmail.com - [Franklin-Github](https://github.com/FranklinJaya2006) 
 
 Project Link:
 
