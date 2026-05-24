@@ -85,7 +85,6 @@ Main features include:
 
 The system was developed to help users make outfit decisions more efficiently while encouraging more responsible fashion consumption behavior.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
@@ -98,7 +97,6 @@ This project was developed using the following technologies:
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](#)
 [![Gemini AI](https://img.shields.io/badge/Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white)](#)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
@@ -122,7 +120,6 @@ from gtts import gTTS
 import google.generativeai as genai
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
@@ -168,7 +165,6 @@ Or DOI:
 
 [View Research Paper](https://www.researchgate.net/publication/400532194_Design_and_Implementation_of_a_Raspberry_Pi-Based_Smart_Mirror_with_Multimodal_AI_and_IoT_for_Sustainable_Outfit_Decision_Support)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
@@ -274,8 +270,6 @@ Main capabilities include:
 - Sustainable fashion support
 - Real-time smart mirror interaction
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ---
 
 ## Development Team
@@ -288,8 +282,6 @@ This project was developed by:
 4. Deny Wahyudi Asaloei
 5. Citra Suardi
 6. Kasmir Syariati
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
@@ -306,4 +298,3 @@ Project Link:
 https://github.com/your-username/smart-mirror-aiot
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
