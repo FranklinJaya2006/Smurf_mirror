@@ -1,6 +1,6 @@
 # Smart Mirror AIoT
 
-[![Contributors](https://img.shields.io/github/contributors/your-username/smart-mirror-aiot.svg?style=for-the-badge)](https://github.com/your-username/smart-mirror-aiot/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/FranklinJaya2006/Smurf_mirror.svg?style=for-the-badge)](https://github.com/FranklinJaya2006/Smurf_mirror/graphs/contributors)
 
 [![LinkedIn Franklin Jaya](https://img.shields.io/badge/LinkedIn-Franklin%20Jaya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklin-jaya-6a3697364/)
 
