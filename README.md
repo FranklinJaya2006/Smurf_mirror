@@ -26,6 +26,12 @@
     </li>
     <li>
       <a href="#conference--publication">Conference & Publication</a>
+      <ul>
+        <li><a href="#research-title">Research Title</a></li>
+        <li><a href="#research-overview">Research Overview</a></li>
+        <li><a href="#research-contributions">Research Contributions</a></li>
+        <li><a href="#publication-link">Publication Link</a></li>
+      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
