@@ -140,7 +140,7 @@ This project was documented and presented as part of a scientific conference pap
 
 ### Research Overview
 
-The research proposes the development of a smart mirror integrated with artificial intelligence and IoT technology to provide users with outfit assessments and recommendations through multimodal reasoning and voice interaction. :contentReference[oaicite:1]{index=1}
+The research proposes the development of a smart mirror integrated with artificial intelligence and IoT technology to provide users with outfit assessments and recommendations through multimodal reasoning and voice interaction.
 
 The system utilizes:
 
