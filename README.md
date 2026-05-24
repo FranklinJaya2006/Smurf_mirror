@@ -2,7 +2,7 @@
 
 [![Contributors](https://img.shields.io/github/contributors/FranklinJaya2006/Smurf_mirror.svg?style=for-the-badge)](https://github.com/FranklinJaya2006/Smurf_mirror/graphs/contributors)
 
-[![LinkedIn Franklin Jaya](https://img.shields.io/badge/LinkedIn-Franklin%20Jaya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklin-jaya-6a3697364/)
+[![LinkedIn Franklin Jaya](https://img.shields.io/badge/LinkedIn-Franklin%20Jaya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklin-jaya-6a3697364/) [![LinkedIn Deny Wahyudi Asaloei](https://img.shields.io/badge/LinkedIn-Deny%20Wahyudi%20Asaloei-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/deny-wahyudi-asaloei/) [![LinkedIn Alvin Yuga Pramana](https://img.shields.io/badge/LinkedIn-Alvin%20Yuga%20Pramana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/alvin-yuga-pramana-8bb5a6319/) [![LinkedIn Kurokusaa](https://img.shields.io/badge/LinkedIn-Kurokusaa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/kurokusaa/)
 
 ---
 
@@ -125,7 +125,7 @@ import google.generativeai as genai
 This project was documented and presented as part of a scientific conference paper discussing AIoT and multimodal smart mirror systems for sustainable outfit recommendation support.
 
 <p align="center">
-  <img src="conference.jpeg" width="250">
+  <img src="Conference.jpeg" width="250">
 </p>
 
 ### Research Title
