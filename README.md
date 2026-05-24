@@ -51,7 +51,7 @@
 ## About The Project
 
 <p align="center">
-  <img src="mirror1.png" width="250">
+  <img src="Smurfmirror.png" width="250">
 </p>
 
 This project is a Raspberry Pi–based Smart Mirror integrated with Artificial Intelligence (AI), Internet of Things (IoT), and multimodal machine learning technology to provide intelligent outfit assessment and recommendation features.
@@ -123,6 +123,7 @@ import google.generativeai as genai
 
 This project was documented and presented as part of a scientific conference paper discussing AIoT and multimodal smart mirror systems for sustainable outfit recommendation support.
 
+
 ### Research Title
 
 **Raspberry Pi–Based Smart Mirror with Multimodal AI and IoT for Sustainable Outfit Decision Support** :contentReference[oaicite:0]{index=0}
@@ -149,26 +150,16 @@ The system utilizes:
 - Real-time outfit recommendation mechanism
 - AIoT implementation using Raspberry Pi
 
-### Research Workflow
-
-1. Dataset collection
-2. Image and text preprocessing
-3. Multimodal model training
-4. Early stopping optimization
-5. Smart mirror system integration
-6. Voice output generation
-7. Real-time evaluation system :contentReference[oaicite:2]{index=2}
-
 ### Publication Link
 
 ```txt
-https://your-publication-link.com
+[Link Journal](10.51747/intro.v4i2.426)
 ```
 
 Or DOI:
 
 ```txt
-https://doi.org/your-paper-doi
+[DOI Journal]((https://www.researchgate.net/publication/400532194_Design_and_Implementation_of_a_Raspberry_Pi Based_Smart_Mirror_with_Multimodal_AI_and_IoT_for_Sustainable_Outfit_Decision_Support))
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
