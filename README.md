@@ -136,7 +136,7 @@ This project was documented and presented as part of a scientific conference pap
 
 ### Research Title
 
-**Raspberry Pi–Based Smart Mirror with Multimodal AI and IoT for Sustainable Outfit Decision Support** :contentReference[oaicite:0]{index=0}
+**Raspberry Pi–Based Smart Mirror with Multimodal AI and IoT for Sustainable Outfit Decision Support**
 
 ### Research Overview
 
