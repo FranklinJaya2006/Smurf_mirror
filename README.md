@@ -295,7 +295,8 @@ This project was developed by:
 
 ## Contact
 
-- Franklin Jaya - [@franklinjaya_](https://www.instagram.com/franklinjaya_/) - franklinjaya827@gmail.com - [Franklin-Github](https://github.com/FranklinJaya2006) 
+- Franklin Jaya - [@franklinjaya_](https://www.instagram.com/franklinjaya_/) - franklinjaya827@gmail.com - [Franklin-Github](https://github.com/FranklinJaya2006)
+- Apryadi Dwi Putra- [@Apryadi_](https://www.instagram.com/apryadi.d.putra) - apryadiputratangalayuk@gmail.com - [Aoryadi-Github](https://github.com/Apryadi) 
 
 Project Link:
 
