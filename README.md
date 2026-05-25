@@ -296,6 +296,6 @@ This project was developed by:
 Project Link:
 
 ```txt
-https://github.com/your-username/smart-mirror-aiot
+https://github.com/your-username/Smurf_mirror
 ```
 
