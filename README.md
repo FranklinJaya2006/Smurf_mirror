@@ -8,7 +8,7 @@
 
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="logo.png" width="250">
+  <img src="Frame15.png" width="250">
 </p>
 
 <br />
